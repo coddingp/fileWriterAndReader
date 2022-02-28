@@ -1,6 +1,4 @@
-package com.company;
-
-import com.sun.jdi.connect.Connector;
+package com.fileWriterAndReader.src.com.company;
 
 import java.io.File;
 import java.io.FileReader;
